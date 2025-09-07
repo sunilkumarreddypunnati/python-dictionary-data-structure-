@@ -6,23 +6,24 @@ Perfect for beginners and learners who want to strengthen their understanding of
  
 
 📂 Task Progression: Beginner ➡️ Advanced  
-
+ 
 🧪 Task File | 📄 Description | 📷 Output Screenshot  
 --- | --- | ---  
-[task 1.py](task%201.py) | 🔑 Access dictionary values (direct & safe access) | ![Task 1](task%201.png)  
-[task 2.py](task%202.py) | ➕ Add a new key-value pair | ![Task 2](task%202.png)  
-[task 3.py](task%203.py) | ✏️ Update an existing value | ![Task 3](task%203.png)  
-[task 4.py](task%204.py) | ❌ Delete a key from dictionary | ![Task 4](task%204.png)  
-[task 5.py](task%205.py) | 🔄 Loop through dictionary using `.items()` | ![Task 5](task%205.png)  
-[task 6.py](task%206.py) | 📊 Count frequency of words | ![Task 6](task%206.png)  
-[task 7.py](task%207.py) | 🔗 Merge two dictionaries with addition of values | ![Task 7](task%207.png)  
-[task 8.py](task%208.py) | 🎯 Filter dictionary based on condition | ![Task 8](task%208.png)  
-[task 9.py](task%209.py) | ↔️ Invert a dictionary (keys ↔ values) | ![Task 9](task%209.png)  
-[task 10.py](task%2010.py) | 🗂️ Nested dictionary lookup | ![Task 10](task%2010.png)  
-[task 11.py](task%2011.py) | 👥 Group dictionary items by value | ![Task 11](task%2011.png)  
-[task 12.py](task%2012.py) | 🔤 Character frequency counter | ![Task 12](task%2012.png)  
-[task 13.py](task%2013.py) | 📏 Sort dictionary by values (descending) | ![Task 13](task%2013.png)  
-[task 14.py](task%2014.py) | 🛒 Compute total price from nested dictionary (cart) | ![Task 14](task%2014.png)  
+[task 1.py](./python%20dictionary/task%201.py) | 🔑 Access dictionary values (direct & safe access) | ![Task 1](./task%201.png)  
+[task 2.py](./python%20dictionary/task%202.py) | ➕ Add a new key-value pair | ![Task 2](./task%202.png)  
+[task 3.py](./python%20dictionary/task%203.py) | ✏️ Update an existing value | ![Task 3](./task%203.png)  
+[task 4.py](./python%20dictionary/task%204.py) | ❌ Delete a key from dictionary | ![Task 4](./task%204.png)  
+[task 5.py](./python%20dictionary/task%205.py) | 🔄 Loop through dictionary using `.items()` | ![Task 5](./task%205.png)  
+[task 6.py](./python%20dictionary/task%206.py) | 📊 Count frequency of words | ![Task 6](./task%206.png)  
+[task 7.py](./python%20dictionary/task%207.py) | 🔗 Merge two dictionaries with addition of values | ![Task 7](./task%207.png)  
+[task 8.py](./python%20dictionary/task%208.py) | 🎯 Filter dictionary based on condition | ![Task 8](./task%208.png)  
+[task 9.py](./python%20dictionary/task%209.py) | ↔️ Invert a dictionary (keys ↔ values) | ![Task 9](./task%209.png)  
+[task 10.py](./python%20dictionary/task%2010.py) | 🗂️ Nested dictionary lookup | ![Task 10](./task%2010.png)  
+[task 11.py](./python%20dictionary/task%2011.py) | 👥 Group dictionary items by value | ![Task 11](./task%2011.png)  
+[task 12.py](./python%20dictionary/task%2012.py) | 🔤 Character frequency counter | ![Task 12](./task%2012.png)  
+[task 13.py](./python%20dictionary/task%2013.py) | 📏 Sort dictionary by values (descending) | ![Task 13](./task%2013.png)  
+[task 14.py](./python%20dictionary/task%2014.py) | 🛒 Compute total price from nested dictionary (cart) | ![Task 14](./task%2014.png)  
+
 
 ---
 
