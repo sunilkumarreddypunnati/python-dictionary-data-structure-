@@ -1,4 +1,4 @@
-# 🧵 Python Dictionary Practice Tasks – Beginner to Advanced  
+# 🧵 Python Dictionary Tasks – Beginner to Advanced  
 
 This repository is a structured guide to mastering Python Dictionaries, one of the most powerful and versatile data structures in Python.  
 It features 14 practical tasks, starting from basic dictionary operations like accessing and updating values to advanced ones like grouping, merging, and nested dictionary lookups.  
